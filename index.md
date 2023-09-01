@@ -1,3 +1,12 @@
+# Akarsh Ojha's First CS193 Homework
+
+## Some of my favorite things about CS193
+- The useful tools we get to learn about and use
+- CS Opportunities displayed at the beginning of class
+- The comments in the slides
+- The instructors
+- Socializing with my peers in CS after class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
